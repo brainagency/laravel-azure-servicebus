@@ -43,4 +43,4 @@ Add and Fill keys in `env.php`
 
 ### Usage
 
-    See Laravel [documentation](https://laravel.com/docs/5.5/queues)
+    See Laravel documentation https://laravel.com/docs/5.5/queues
