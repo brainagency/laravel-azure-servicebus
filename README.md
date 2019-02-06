@@ -20,7 +20,7 @@ Add BusProvider to `providers` section in `app/config/app.php`
 
     Brainagency\LaravelAzureServicebus\BusProvider::class,
 
-Add config to `connection` section in `app/config/queue.php`
+Add config to `connections` section in `app/config/queue.php`
 
     'azure' => [
         'driver'                => 'azure.servicebus',
