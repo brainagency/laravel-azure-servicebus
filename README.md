@@ -1,5 +1,5 @@
 ## laravel-azure-servicebus
-Laravel ServiceProvider for Azure Service Bus
+Laravel 5.5 ServiceProvider for Azure Service Bus
 
 ### Installation
 
