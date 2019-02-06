@@ -1,0 +1,31 @@
+{
+    "name": "brainagency/laravel-azure-servicebus",
+    "description": "Laravel service provider for Microsoft Azure Service Bus Queues.",
+    "version": "1.0",
+    "keywords": [
+        "laravel",
+        "azure",
+        "servicebus",
+        "queues"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pavel Shishko",
+            "email": "pshishko@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.10",
+        "illuminate/container": "5.5.*",
+        "illuminate/support": "5.5.*",
+        "illuminate/encryption": "5.5.*",
+        "microsoft/windowsazure": "0.5.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Brainagency\\LaravelAzureServicebus\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
